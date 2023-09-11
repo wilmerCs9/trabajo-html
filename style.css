@@ -1,0 +1,14 @@
+#boton{
+    width: 66%;
+    font-weight: 700;
+    margin-top: 440px;
+    margin-left: 480px;
+    padding: 20px;
+    background-color: darkgrey;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+   }
+   #boton:hover{
+    background-color: green;
+   }
